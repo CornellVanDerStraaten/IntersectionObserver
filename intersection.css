@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: seashell;
+}
+nav {
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+.nav__link {
+    text-decoration: none;
+    color: white;
+}
+.nav__text {
+    font-size: 20px;
+}
+li {
+    padding: 20px;
+    background-color: gray;
+}
+
+.section {
+    height: 80vh;
+
+}
+.section > p {
+    color: black;
+    margin: 0;
+    padding: 20px;
+    font-size: 30px;
+}
+.section1 {
+    background-color: antiquewhite;
+}
+.section2 {
+    background-color: aliceblue;
+}
+.section3 {
+    background-color: antiquewhite;
+}
+.section4 {
+    background-color: aliceblue;
+}
